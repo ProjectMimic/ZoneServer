@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZoneServer": {
+      "commandName": "Project",
+      "workingDirectory": "../../../"
+    }
+  }
+}
